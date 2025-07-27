@@ -1,4 +1,3 @@
-
 const ComingSoon = () => {
   return (
     <section className="entrance-message">
@@ -7,7 +6,7 @@ const ComingSoon = () => {
 
         <div className="text-wrapper">
           <h3 className="gradient-title">
-            Coming <br/> May 26th <br /> 2026
+            Coming <br /> May 26th <br /> 2026
           </h3>
         </div>
 
@@ -17,7 +16,7 @@ const ComingSoon = () => {
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
-export default ComingSoon
+export default ComingSoon;
