@@ -1,0 +1,16 @@
+# Build outputs
+dist/
+build/
+
+# Dependencies
+node_modules/
+
+# Generated files
+*.log
+.DS_Store
+
+# Other
+.env
+.env.local
+.env.production
+.env.staging
