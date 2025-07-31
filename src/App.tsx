@@ -1,5 +1,6 @@
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/all';
+import Final from './sections/Final';
 import FirstVideo from './sections/FirstVideo';
 import Hero from './sections/Hero';
 import Jason from './sections/Jason';
@@ -20,6 +21,7 @@ const App = () => {
       <SecondVideo />
       <Lucia />
       <PostCard />
+      <Final />
     </main>
   );
 };
